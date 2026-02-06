@@ -9,11 +9,6 @@
 
 I am **Dinesh K Yadav**, a **Senior Software Specialist**. I specialize in **.NET, ASP.NET Core, Angular,  Azure, Azure AI/ML, Gen AI, Agentic AI, Microservices, Angular**.
 
-I’m **Dinesh K Yadav**, a Senior Software Specialist with proven experience delivering enterprise-grade applications using .NET Core, Web APIs, Microservices, Angular, and Azure.
-
-I specialize in **.NET, ASP.NET Core, Angular,  Azure, Azure AI/ML, Gen AI, Agentic AI, Microservices, Angular**.
-
-
 ---
 
 ## 🛠️ Tech Expertise
