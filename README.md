@@ -51,8 +51,8 @@ I am **Dinesh K Yadav**, a **Senior Software Specialist**. I specialize in **.NE
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dineshkyadav/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/<your-username>)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/prodineshkyadav/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/prodineshkyadav)  
 
 ---
 
