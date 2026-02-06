@@ -1,57 +1,60 @@
-# readme.md
-
-# 👋 Hi, I'm **Dinesh K Yadav**
-
-### Senior Software Specialist | Full-Stack .NET & Angular Developer  
-📍 Mumbai, India 
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm <strong>Dinesh K Yadav</strong></h1>
+<h3 align="center">👨‍💻 <strong>Senior Software Specialist | Full-Stack .NET Core & Angular Developer</strong></h3>
+<h4 align="center">.NET, ASP.NET Core, Azure, Azure AI/ML, Gen AI, Agentic AI, Microservices, Angular</h4>
 
 ---
 
 ## 🚀 About Me
-I am a Senior Software Specialist having experience in designing, developing, and delivering robust software solutions across Banking, Aviation, and Enterprise domains.
 
-I specialize in **.NET Core Microservices, Web APIs, and Angular applications**. I am passionate about building scalable systems, writing clean code, and solving real-world problems with technology.
+I am **Dinesh K Yadav**, a **Senior Software Specialist**. I specialize in **.NET, ASP.NET Core, Angular,  Azure, Azure AI/ML, Gen AI, Agentic AI, Microservices, Angular**.
+
+I’m **Dinesh K Yadav**, a Senior Software Specialist with proven experience delivering enterprise-grade applications using .NET Core, Web APIs, Microservices, Angular, and Azure.
+
+I specialize in **.NET, ASP.NET Core, Angular,  Azure, Azure AI/ML, Gen AI, Agentic AI, Microservices, Angular**.
+
 
 ---
 
-## 💻 What I Work With
+## 🛠️ Tech Expertise
 
-### **Backend**
-- **.NET:** .NET Core, ASP.NET MVC, Web API  
-- **Services:** Microservices, WCF, RESTful APIs  
-- **ORM & Data:** Entity Framework, LINQ  
+### **Cloud & AI**
+<div>
+  <img src="https://skillicons.dev/icons?i=azure" height="45" title="Azure"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" title="Python"/>
+  <img src="https://www.scholarhat.com/images/technologies/ai-studio.png" height="45" title="Azure AI Foundry"/>
+  <img src="https://www.scholarhat.com/images/technologies/lllm.png" height="45" title="LLMs"/>
+  <img src="https://www.scholarhat.com/images/technologies/ai-agent.png" height="45" title="Agentic AI"/>
+</div>
+
+### **Backend & Database**
+<div>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" title=".NET"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="45" title="C#"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js"/>
+  <img src="https://www.scholarhat.com/images/technologies/sqlserver.png" height="45" title="SQL Server"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB"/>
+</div>
 
 ### **Frontend**
-- Angular (1.x → 16), TypeScript, JavaScript  
-- Angular Material, jQuery, AG Grid
-
-### **Databases**
-- SQL Server (2000 – 2016), Oracle 10g  
-- MongoDB
+<div>
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=angular" height="45" title="Angular"/>
+</div>
 
 ### **DevOps & Tools**
-- Docker, Jenkins, OpenShift  
-- Azure (Logic Apps, Functions, App Insights)  
-- TFS, Bitbucket, Jira, Postman, XUnit, Karma
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" title="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" title="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" title="Github Actions"/>
+</div>
 
 ---
 
-## 🛠️ Professional Highlights
-- Delivered enterprise applications used globally across **multiple regions and teams**
-- Built document auditing, versioning & control systems for large financial clients
-- Designed and developed scalable microservices architectures
-- Experience across all stages of SDLC: requirement gathering → testing → deployment → production support
-
----
-
-## 📌 Key Projects
-- **EUC Control Portal** – Enterprise controls management tool with auditing & versioning
-- **Airways Guest GST & ESS** – Corporate & employee portals for large aviation clients
-- Numerous mission-critical systems in banking & utilities domains
-
----
-
-## 📫 Connect with Me
+## 🤝 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dineshkyadav/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/<your-username>)  
@@ -62,5 +65,3 @@ I specialize in **.NET Core Microservices, Web APIs, and Angular applications**.
 I enjoy exploring new tech, improving team processes, and mentoring others to grow and deliver impactful software.
 
 ---
-
-> 💡 *This profile README introduces who I am, what I build, and how I work — making it easier for visitors to quickly understand my professional identity.*  
